@@ -1,0 +1,21 @@
+*{
+    --ion-background-color:white;
+}
+
+ion-list{
+    background-color: rgb(68, 68, 68);
+}
+
+ion-item{
+    border: solid 1px #9B9B9B;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-radius: 5%;
+}
+
+ion-item-option{
+    height: 85%;
+    margin-top:5%;
+    margin-bottom: 2%;
+    border-radius: 5%;
+}
